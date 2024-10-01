@@ -1,5 +1,6 @@
 .PHONY: clean
 
+# set your clang++ compiler path
 # CXX=/usr/local/Cellar/llvm/19.1.0/bin/clang++
 CXX=clang++
 
